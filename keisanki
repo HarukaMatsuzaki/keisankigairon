@@ -1,0 +1,4 @@
+hi = hello
+name = haruka
+greeting = hi + '' + name
+print(greeting)
